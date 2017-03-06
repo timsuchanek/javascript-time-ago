@@ -26,11 +26,8 @@ npm-debug.log
 *.sublime-workspace
 
 # webpack build target folder
-/build/
-/es6/
 
 # NUL
 NUL
 
 # browser builds
-/bundle/
